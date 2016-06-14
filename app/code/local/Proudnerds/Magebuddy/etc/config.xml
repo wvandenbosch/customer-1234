@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Proudnerds_Magebuddy>
+      <version>0.1.0</version>
+    </Proudnerds_Magebuddy>
+  </modules>
+  <global>
+    <helpers>
+      <magebuddy>
+        <class>Proudnerds_Magebuddy_Helper</class>
+      </magebuddy>
+    </helpers>
+	<blocks>
+	  <magebuddy>
+		<class>Proudnerds_Magebuddy_Block</class>
+	  </magebuddy>
+	</blocks>
+  </global>
+  <admin>
+	<routers>
+	  <magebuddy>
+	    <use>admin</use>
+		<args>
+		  <module>Proudnerds_Magebuddy</module>
+		  <frontName>admin_magebuddy</frontName>
+		</args>
+	  </magebuddy>
+	</routers>
+  </admin>
+  <adminhtml>
+	<menu>
+	  <magebuddy module="magebuddy">
+		<title>Magebuddy</title>
+		<sort_order>100</sort_order>
+		<children>
+			<magebuddybackend module="magebuddy">
+				<title>Very well</title>
+				<sort_order>0</sort_order>
+				<action>admin_magebuddy/adminhtml_magebuddybackend</action>
+			</magebuddybackend>
+			<test module="magebuddy">
+				<title>daatabase</title>
+				<sort_order>0</sort_order>
+				<action>admin_magebuddy/adminhtml_magebuddybackend/database</action>
+			</test>
+			<source module="magebuddy">
+				<title>source</title>
+				<sort_order>0</sort_order>
+				<action>admin_magebuddy/adminhtml_magebuddybackend/source</action>
+			</source>
+		</children>
+	  </magebuddy>
+	</menu>
+	<acl>
+	  <resources>
+		<all>
+		  <title>Allow Everything</title>
+		</all>
+		<admin>
+		  <children>
+			<magebuddy translate="title" module="magebuddy">
+			  <title>Magebuddy</title>
+			  <sort_order>1000</sort_order>
+			  <children>
+		  <magebuddybackend translate="title">
+			<title>Very well</title>
+		  </magebuddybackend>
+			  </children>
+			</magebuddy>
+		  </children>
+		</admin>
+	  </resources>
+	</acl>
+	<layout>
+	  <updates>
+		<magebuddy>
+		  <file>magebuddy.xml</file>
+		</magebuddy>
+	  </updates>
+	</layout>
+  </adminhtml>
+</config> 

@@ -1,0 +1,105 @@
+2016-06-13T13:35:35+00:00 CRIT (2): Not valid template file:adminhtml/default/default/template/magebuddy/magebuddybackend.phtml
+2016-06-13T14:39:12+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/test/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/test/public_html/app/code/core/Mage/Core/Model/App.php:365
+[5] /var/www/test/public_html/app/Mage.php:692
+[6] /var/www/test/public_html/index.php:83
+</pre>
+2016-06-13T14:39:20+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/test/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/test/public_html/app/code/core/Mage/Core/Model/App.php:365
+[5] /var/www/test/public_html/app/Mage.php:692
+[6] /var/www/test/public_html/index.php:83
+</pre>
+2016-06-13T16:07:54+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/test/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/test/public_html/app/code/core/Mage/Core/Model/App.php:365
+[5] /var/www/test/public_html/app/Mage.php:692
+[6] /var/www/test/public_html/index.php:83
+</pre>
+2016-06-13T16:08:32+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/test/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/test/public_html/app/code/core/Mage/Core/Model/App.php:365
+[5] /var/www/test/public_html/app/Mage.php:692
+[6] /var/www/test/public_html/index.php:83
+</pre>
+2016-06-13T16:09:06+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/test/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/test/public_html/app/code/core/Mage/Core/Model/App.php:365
+[5] /var/www/test/public_html/app/Mage.php:692
+[6] /var/www/test/public_html/index.php:83
+</pre>
+2016-06-13T16:09:44+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/test/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/test/public_html/app/code/core/Mage/Core/Model/App.php:365
+[5] /var/www/test/public_html/app/Mage.php:692
+[6] /var/www/test/public_html/index.php:83
+</pre>
+2016-06-13T16:09:59+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/test/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/test/public_html/app/code/core/Mage/Core/Model/App.php:365
+[5] /var/www/test/public_html/app/Mage.php:692
+[6] /var/www/test/public_html/index.php:83
+</pre>
+2016-06-13T16:28:57+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/test/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/test/public_html/app/code/core/Mage/Core/Model/App.php:365
+[5] /var/www/test/public_html/app/Mage.php:692
+[6] /var/www/test/public_html/index.php:83
+</pre>
+2016-06-13T16:29:18+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/test/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/test/public_html/app/code/core/Mage/Core/Model/App.php:365
+[5] /var/www/test/public_html/app/Mage.php:692
+[6] /var/www/test/public_html/index.php:83
+</pre>
+2016-06-13T16:29:26+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/test/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/test/public_html/app/code/core/Mage/Core/Model/App.php:365
+[5] /var/www/test/public_html/app/Mage.php:692
+[6] /var/www/test/public_html/index.php:83
+</pre>
+2016-06-13T16:32:51+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/test/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/test/public_html/app/code/core/Mage/Core/Model/App.php:365
+[5] /var/www/test/public_html/app/Mage.php:692
+[6] /var/www/test/public_html/index.php:83
+</pre>
+2016-06-13T16:53:03+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/test/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/test/public_html/app/code/core/Mage/Core/Model/App.php:365
+[5] /var/www/test/public_html/app/Mage.php:692
+[6] /var/www/test/public_html/index.php:83
+</pre>
+2016-06-13T17:02:30+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:52
+[1] /var/www/test/public_html/lib/Zend/Controller/Response/Abstract.php:768
+[2] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Response/Http.php:84
+[3] /var/www/test/public_html/app/code/core/Mage/Core/Controller/Varien/Front.php:184
+[4] /var/www/test/public_html/app/code/core/Mage/Core/Model/App.php:365
+[5] /var/www/test/public_html/app/Mage.php:692
+[6] /var/www/test/public_html/index.php:83
+</pre>
